@@ -7,9 +7,9 @@
 
 The Code base follow the Clean Architecture and CQRS
 
-![Clean-Architecture](https://github.com/user-attachments/assets/4bb15176-f616-4f89-8409-c09de36ffcba)
+![Clean-Architecture](Image/Clean-Architecture.png)
 
-![CQRS](https://github.com/user-attachments/assets/876f1c4b-44d5-425d-aa32-5dae937c624e)
+![CQRS](Image/CQRS.jpg)
 
 Transfer internal data using `MediatR` and external use `RabbitMQ` / `Azure ServiceBus`.
 
