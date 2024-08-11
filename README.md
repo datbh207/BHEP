@@ -1,5 +1,5 @@
 
-# Project Title
+# Title
 
 "BHEP - Better Health for Each Person" is a startup project that Raptor team is in the process of developing and implementing. With the goal of providing everyone with good health care services without having to go to the hospital. Creating convenience for users with health monitoring features and direct communication with Doctors at a corresponding price, Raptor team aims to become a reliable health service provider and constantly improve quality.
 
