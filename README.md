@@ -5,7 +5,7 @@
 
 ## Constructure Code
 
-The Code base follow the Clean Architecture and CQRS
+The Code base following principles Clean Architecture and CQRS pattern.
 
 ![Clean-Architecture](Image/Clean-Architecture.png)
 
