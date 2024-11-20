@@ -24,6 +24,7 @@ Transfer internal data using `MediatR` and external use `RabbitMQ` / `Azure Serv
 ### Payment 
 - [VNPay](https://sandbox.vnpayment.vn/apis/docs/gioi-thieu)
 - [PayOS](https://payos.vn/docs/api)
+![image](https://github.com/user-attachments/assets/2f517052-b4b1-48ac-955e-a44be021cee9)
 
 ### Other
 
