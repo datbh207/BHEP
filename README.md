@@ -19,7 +19,9 @@ Transfer internal data using `MediatR` and external use `RabbitMQ` / `Azure Serv
 - [Serivce App](https://learn.microsoft.com/en-us/azure/app-service): deploy API 
 - [BlobStorage](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview): store Images and Videos
 - [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis): caching data from Query
-- [ServiceBus](https://learn.microsoft.com/en-us/azure/service-bus-messaging): using queue and topic/subscription for handle 
+- [ServiceBus](https://learn.microsoft.com/en-us/azure/service-bus-messaging): using queue and topic/subscription for handle
+- SQL Database
+![image](https://github.com/user-attachments/assets/14037a26-c986-44ce-8d02-59d0ad32a878)
 
 ### Payment 
 - [VNPay](https://sandbox.vnpayment.vn/apis/docs/gioi-thieu)
